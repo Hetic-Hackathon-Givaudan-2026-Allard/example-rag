@@ -1,3 +1,4 @@
+
 """Charge un fichier TXT ou CSV dans la base vectorielle ChromaDB.
 
 Usage :
